@@ -1,0 +1,31 @@
+{   
+    "project_name":"ZHUMUSH TAP",
+    "general":{
+        "search":"Search vacancy",
+        "responsibilities":"Responsibilities:",
+        "requirements":"Requirements:",
+        "vacancies":"Vacancies",
+        "contacts":"Contacts",
+        "employers":"Employers",
+        "post_vacancies":"Post vacancies",
+        "professions":"Professions",
+        "finance":"Finance",
+        "design":"Design",
+        "development":"Development",
+        "education":"Education",
+        "medicine":"Medicine",
+        "public_catering":"Public catering",
+        "category":"Category",
+        "subcategory":"Subcategory",
+        "location":"Location",
+        "salary":"Salary",
+        "min":"Min",
+        "max":"Max",
+        "kind_of_work":"Kind of work",
+        "part_time":"Part Time",
+        "full_time":"Full Time",
+        "remote":"remote",
+        "apply":"Apply",
+        "no_result_request":"No results were found for your request"
+    }
+}

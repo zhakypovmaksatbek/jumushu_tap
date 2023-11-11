@@ -1,0 +1,31 @@
+{   
+    "project_name":"ZHUMUSH TAP",
+    "general":{
+        "search":"Поиск вакансии",
+        "responsibilities":"Обязанности:",
+        "requirements":"Требования:",
+        "vacancies":"вакансии",
+        "contacts":"Контакты:",
+        "employers":"Работодатель",
+        "post_vacancies":"Разместить  вакансии",
+        "professions":"Профессии",
+        "finance":"Финансы",
+        "design":"Дизайн",
+        "development":"Разработка",
+        "education":"Образование",
+        "medicine":"Медицина",
+        "public_catering":"Общепит",
+        "category":"Категория",
+        "subcategory":"Подкатегория",
+        "location":"Местоположение",
+        "salary":"Заработная плата",
+        "min":"Min",
+        "max":"Max",
+        "kind_of_work":"Тип работы ",
+        "part_time":"Part Time",
+        "full_time":"Full Time",
+        "remote":"remote",
+        "apply":"Применить",
+        "no_result_request":"По вашему запросу ничего  не найдено"
+    }
+}

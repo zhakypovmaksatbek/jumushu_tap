@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081808412740",
+    "project_id": "zhumush-tapp",
+    "storage_bucket": "zhumush-tapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081808412740:android:19f396d6b7f5a7b623dc11",
+        "android_client_info": {
+          "package_name": "com.maksatbek.meenet.meenet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4FptawswtuVg5Zs6sRw0XgPMDFbM7RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
